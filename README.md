@@ -1,5 +1,6 @@
 # Course Online
 
+This repository contains side notes from [this repository](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 |Index | Module | Time (day) |
 | --- | --- | ---:|

@@ -1,28 +1,38 @@
-# Course Online
+# Web Dev for Youth
 
-This repository contains side notes from [this repository](https://github.com/microsoft/Web-Dev-For-Beginners)
+```
+Tue, Thurs (10am to 11:30am)
+90 mins
+35 mins, 10 mins
+35 mins, 10 mins
+Fixed group members in breakout room
+```
 
-|Index | Module | Time (day) |
+## Resources
+
+- [Web Dev in Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [MDN Web Doc](https://developer.mozilla.org/en-US/)
+- [W3 Web Doc](https://www.w3schools.com/)
+
+## Preparation
+
+- Seperate group members
+- Facebook group
+- Pre-record videos of Download resources (VS code)
+- Google Classroom (Pure study resource)
+
+
+| Week | Topic | Trainer |
 | --- | --- | ---:|
-| 1 | [Introduction to Programming and Tools](modules/01_Intro_Programming.md) | 1 |
-|2 | [Github Basic](modules/02_Github_Basic.md) | 0  |
-| 3 | [Accessibility Fundamentals](moduels/03_accessiblity.md)
-| 4 | [JS Datatype](modules/04_JS_Datatype.md) | 0.5  |
-| 5 | [JS Function](modules/05_JS_Function.md) | 1  |
-| 6 | [JS Condition](modules/06_JS_Condition.md) | 0.5  |
-| 7 | [JS Array & Loop](modules/07_JS_Array_Loop.md) | 1.5  |
-| 8 | [HTML](modules/08_HTML.md) | 1  |
-| 9 | [CSS](modules/09_CSS.md) | 1  |
-| 10 | [DOM and Closure](modules/10_Intro_DOM_Closure.md) |1.5 
-| 11 | [Event Driven Programming](modules/11_Event_Driven_Programming.md) | 1.5  |
-
-# Extensive Documentation (External Resources)
-
-- [Arrow Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-### 10. DOM and Closure
-- [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
-
-# Side Note
-
-- We should encourage students to look at the official documentations and get familiar with forum like stack overflow
-- We Should, in training, demostrate some common error and encourage students to try and fix these errors.
+| 1 | Introduction to Programming and Web | Aung Paing |
+| 1 | Github | Aung Paing |
+| 2 | HTML |  Nyein Chan Aung |
+| 2 | HTML / CSS | Nyein Chan Aung / Aung Paing |
+| 3 | CSS | Aung Paing | 
+| 3 | Project 1. Portfolio and Github page hosting | Aung Paing | 
+| 4 | Javascript : Intro to JS, Data Types and Condition | Khant |
+| 4 | Javascript : Loop and Array | Khant |
+| 5 | Javascript : Function, Class and Object | Khant |
+| 5 | Project 2. BMI calculator | Khant |
+| 6 | Project 3. Calculator | Nyein Chan Aung |
+| 6 | Project 4. Todo List | Aung Paing |
